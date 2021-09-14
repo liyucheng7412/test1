@@ -6,5 +6,7 @@ public class c1 {
         System.out.println("第三次提交");
 
         System.out.println("tester02分支第一次提交");
+        System.out.println("tester01分支第二次提交");
+        System.out.println("tester01开发完成需求2222222222第1111111111阶段");
     }
 }
