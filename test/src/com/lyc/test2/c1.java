@@ -10,5 +10,6 @@ public class c1 {
         System.out.println("tester01开发完成需求2222222222第1111111111阶段");
         System.out.println("tester02开发完成需求1111111第1111111阶段");
         System.out.println("tester01开发完成需求2222222222第2222222222222阶段");
+        System.out.println("tester02开发完成需求1111111第22222222阶段");
     }
 }
